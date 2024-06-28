@@ -1,6 +1,3 @@
-#abdullah ardah 201811979
-#shatha hosheyeh 201912293
-#abdullhafeez saad 201810540
 
 
 
